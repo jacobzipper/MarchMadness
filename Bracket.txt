@@ -1,0 +1,96 @@
+Kansas 1
+AustinPeay 16
+
+Colorado 8
+UConn 9
+
+Maryland 5
+SouthDakotaSt 12
+
+Cal 4
+Hawaii 13
+
+Arizona 6
+WichitaSt 11
+
+Miami 3
+Buffalo 14
+
+Iowa 7
+Temple 10
+
+Villanova 2
+UNCAsheville 15
+
+Oregon 1
+HolyCross 16
+
+SaintJoe's 8
+Cincinnati 9
+
+Baylor 5
+Yale 12
+
+Duke 4
+UNCWilmington 13
+
+Texas 6
+NorthernIowa 11
+
+TexasA&M 3
+GreenBay 14
+
+OregonState 7
+VCU 10
+
+Oklahoma 2
+CSUBakersfield 15
+
+UNC 1
+FGCU 16
+
+USC 8
+Providence 9
+
+Indiana 5
+Chattanooga 12
+
+Kentucky 4
+StonyBrook 13
+
+NotreDame 6
+Michigan 11
+
+WestVirginia 3
+SFAustin 14
+
+Wisconsin 7
+Pitt 10
+
+Xavier 2
+WeberState 15
+
+UVA 1
+Hampton 16
+
+TexasTech 8
+Butler 9
+
+Purdue 5
+AR-LittleRock 12
+
+IowaState 4
+Iona 13
+
+SetonHall 6
+Gonzaga 11
+
+Utah 3
+FresnoState 14
+
+Dayton 7
+Syracuse 10
+
+MichiganState 2
+MidTennessee 15
+
